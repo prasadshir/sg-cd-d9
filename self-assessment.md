@@ -2,7 +2,7 @@
 
 Experienced Drupalists will likely know their weaknesses more than they know their strengths. You might have judged your own skill levels while reading through the four domains listed above. It is quite natural for you to be more experienced and proficient in one domain than another. Also, within a domain, it is quite likely that you have hands-on experience on some topics but have never touched other areas within the same domain.
 
-### **How to Use Self Assessment**
+## **How to Use Self Assessment**
 
 We suggest you perform a skills and expertise self-assessment with respect to the domains and topics listed in the blueprint. The blueprint lists test objectives \(topics\) for each domain. Rank your skills on a scale of 0 to 10 against each test objective \(0 for absolutely zero knowledge or exposure and 10 for complete mastery\).
 
@@ -12,11 +12,11 @@ We suggest you perform a skills and expertise self-assessment with respect to th
 
 You may use the following table to carry out your evaluation.
 
-### Acquia Certified Drupal 8 Developer Site Self-Assessment Table
+## Acquia Certified Drupal 8 Developer Site Self-Assessment Table
 
 |  | Topic | Your Score \(1-10\) |
 | :--- | :--- | :--- |
-|  **1** | **Fundamental Web Development Concepts** |  |
+| **1** | **Fundamental Web Development Concepts** |  |
 | 1.1 | Demonstrate knowledge of HTML and CSS. 1.2.  1.3. Demonstrate the use of Git for version control |  |
 | 1.2 | Identify JavaScript and jQuery programing concepts. |  |
 | 1.3 | Demonstrate the use of Git for version control. |  |

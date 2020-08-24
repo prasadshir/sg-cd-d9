@@ -1,16 +1,16 @@
 # Steps to Developer Certification
 
-![](.gitbook/assets/Developer-Steps.png)
+![Steps to Drupal 9 Developer Certification](.gitbook/assets/developer-d9-steps.png)
 
 **Newcomer:** You are absolutely new to Drupal
 
-**D7 Site Builder**: You have Drupal 7 Development experience, but new to Drupal 8
+**Learner**: Development experience with previous versions of Drupal, but new to Drupal 9
 
-**D8 Site Builder**: You have Drupal 8 Development experience, wish to get certified.
+**Experienced**: You have Drupal 9 Development experience, wish to get certified.
 
-## Take Acquia Academy 100 Level Courses
+## Take Acquia Academy Basic Level Courses
 
-As a Newcomer to Drupal 8, take introductory courses in Acquia Academy \(also found on our [YouTube](https://www.youtube.com/user/AcquiaTV/playlists) channel in playlists\). We have three courses to get you started on your Drupal 8 journey.
+As a Newcomer to Drupal 9, take introductory courses in Acquia Academy \(also found on our [YouTube](https://www.youtube.com/user/AcquiaTV/playlists) channel in playlists\). We have three courses to get you started on your Drupal journey.
 
 * Introduction to Drupal 8
 * Building a Basic Site Using Drupal 8
@@ -18,9 +18,9 @@ As a Newcomer to Drupal 8, take introductory courses in Acquia Academy \(also fo
 
 After taking the courses, build a small website on your own to reinforce the concepts learned in the courses.
 
-## Take Acquia Academy 200 Level Courses
+## Take Acquia Academy Advanced Level Courses
 
-For the Developer path, the next step is to take a comprehensive 200 Level courses in Acquia Academy. The following courses are suggested:
+For the Developer path, the next step is to take a comprehensive advanced Level courses in Acquia Academy. The following courses are suggested:
 
 * Building Websites with Drupal 8
 * Drupal 8 Layout and Theming

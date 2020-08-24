@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Study Guide: Acquia Certified Drupal 8 Developer Exam](README.md)
+* [Study Guide: Acquia Certified Drupal 9 Developer Exam](README.md)
 * [About Acquia Certification Program](about-acquia-certification-program.md)
 * [About the Exam](about-the-exam.md)
 * [Steps to Developer Certification](steps-to-developer-certification.md)

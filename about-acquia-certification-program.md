@@ -23,24 +23,24 @@ The key benefits for **organizations** building Drupal solutions are:
 
 ## Which Exams Are Available?
 
-Acquia offers technical Certification in Drupal 7, Drupal 8 and Drupal 9 in four competencies each:
+Acquia offers technical Certification in Drupal 7 and Drupal 8, in four competencies each:
 
-| Exam | Drupal 9 | Drupal 8 | Drupal 7 |
-| :--- | :--- | :--- | :--- |
-| Acquia Certified Drupal Site Builder | ✓ | ✓ | ✓ |
-| Acquia Certified Drupal Developer | ✓ | ✓ | ✓ |
-| Acquia Certified Drupal Front end Specialist | Coming Soon | ✓ | ✓ |
-| Acquia Certified Drupal Back end Specialist | Coming Soon | ✓ | ✓ |
+| Drupal 8 | Drupal 7 |
+| :--- | :--- |
+| [Acquia Certified Drupal 8 Site Builder](https://www.acquia.com/customer-success/learning-services/acquia-certified-drupal-8-site-builder-exam) | [Acquia Certified Drupal 7 Site Builder](https://www.acquia.com/customer-success/learning-services/acquia-certified-drupal-site-builder-exam-blueprint) |
+| [Acquia Certified Drupal 8 Developer](https://www.acquia.com/customer-success/learning-services/acquia-certified-developer-drupal-8-exam-blueprint) | [Acquia Certified Drupal 7 Developer](https://www.acquia.com/customer-success/learning-services/acquia-certified-developer-exam-blueprint) |
+| [Acquia Certified Drupal 8 Front end Specialist](https://www.acquia.com/customer-success/learning-services/acquia-certified-developer-drupal-8-frontend-specialist) | [Acquia Certified Drupal 7 Front end Specialist](https://www.acquia.com/customer-success/learning-services/acquia-certified-developer-front-end-specialist-exam-blueprint) |
+| [Acquia Certified Drupal 8 Back end Specialist](https://www.acquia.com/customer-success/learning-services/acquia-certified-back-end-specialist-d8-exam-blueprint) | [Acquia Certified Drupal 7 Back end Specialist](https://www.acquia.com/customer-success/learning-services/acquia-certified-developer-back-end-specialist-exam-blueprint) |
 
 ## Certification Path
 
-This diagram shows the recommended progression through exam depending on level of Drupal experience. _Applies to Drupal 7, 8  and 9 series of exams._
+This diagram shows the recommended progression through exam depending on level of Drupal experience. _Applies to both Drupal 7 and 8 series of exams._ 
 
 ![](.gitbook/assets/Cert-Program-Overview.png)
 
 ## Grand Master Certification
 
-Developers who earn Certified Developer, Certified Front End Specialist, and Certified Back End Specialist \(Drupal 7, 8 or 9 series\) _automatically_ earn the **Acquia Certified Grand Master** credential for that version of Drupal. There is _not_ a certification exam to obtain the Grand Master credential.
+Developers who earn Certified Developer, Certified Front End Specialist, and Certified Back End Specialist \(Drupal 7 or Drupal 8 series\) _automatically_ earn the **Acquia Certified Grand Master** credential for that version of Drupal. There is _not_ a certification exam to obtain the Grand Master credential.
 
 ## Acquia Platform Certification
 
@@ -50,10 +50,8 @@ Certification Exams for Acquia Platform were launched in 2017.
 
 | Acquia Platform |
 | :--- |
-| Acquia Cloud Pro |
-| Acquia Site Factory Pro |
-| Acquia Site Studio Site Builder |
-| Acquia Personalization Pro |
+| [Acquia Cloud Pro](https://www.acquia.com/customer-success/learning-services/acquia-certified-cloud-pro-exam-blueprint) |
+| [Acquia Site Factory Pro](https://www.acquia.com/customer-success/learning-services/acquia-certified-acquia-certified-site-factory-pro-exam-blueprint) |
 
 ![](.gitbook/assets/inner-page-footer.png)
 

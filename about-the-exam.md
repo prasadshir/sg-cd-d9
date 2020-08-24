@@ -2,7 +2,7 @@
 
 ## Key Information
 
-**Exam Name:** Acquia Certified Drupal 8 Developer
+**Exam Name:** Acquia Certified Drupal 9 Developer
 
 **Exam Duration:** 90 minutes
 
@@ -12,15 +12,15 @@
 
 ## About the exam
 
-The purpose of Acquia Certified Developer - D8 exam is to validate skills and knowledge of a Drupal Developer in the areas of Fundamental web concepts, Site Building, Front end development \(theming\), and Back end development \(coding\). This exam is based on the Drupal 8 platform.
+The purpose of Acquia Certified Developer - D9 exam is to validate skills and knowledge of a Drupal Developer in the areas of Fundamental web concepts, Site Building, Front end development \(theming\), and Back end development \(coding\). This exam is based on the Drupal 9 platform.
 
 This exam validates a candidate’s ability to:
 
-* Design, develop and deploy Drupal 8-based solutions
-* Understand the core Drupal 8 basic architecture
+* Design, develop and deploy Drupal 9-based solutions
+* Understand the core Drupal 9 basic architecture
 * Understand best practices for front and back end development
-* Develop and maintain applications using Drupal 8 front and back end development
-* Develop and implement new Drupal 8 modules and themes
+* Develop and maintain applications using Drupal 9 front and back end development
+* Develop and implement new Drupal 9 modules and themes
 * Customize and extend existing modules and themes
 
 The basic knowledge and skills required at this level should include all of the following areas and objective components.

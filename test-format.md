@@ -13,20 +13,20 @@ All the questions asked in the exam are scenario-based. There are three parts to
 
 **Scenario**
 
-Your company runs a social site where visitors are able to comment on many different content types. You've been asked to also enable commenting on the user entity.
+One of the business requirements for the "News" section of your company's site is to be able to associate a "News item" with a product. The Product and News item content types have already been created.
 
 **Question**
 
-What steps need to be taken to enable commenting on users?
+How can you modify Drupal's data architecture to enable relating a news item to a product?
 
 **Answer Choices**
 
-1. Create a custom module that adds a "User" plugin for comments.
-2. Add a comment field to your user entity, and specify user as the target entity type in the field settings.
-3. Add an entity reference field to your user entity, which references the comment entity.
-4. Create a comment type that targets the user entity type, then add a comment field to your User entity that uses this new comment type.
+1. Add a content type connector using the Layout builder module.
+2. Add taxonomy reference field on news item that targets product..
+3. Add an entity reference field on news item that targets product.
+4. Add a Relationship to product while building a View of news items
 
-\(Correct answer - 4\)
+\(Correct answer - 3\)
 
 After looking at the sample question, you may realize that the questions rely on the application of Drupal concepts and knowledge rather than purely memorizing the facts, code, or syntax.
 

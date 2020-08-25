@@ -1,6 +1,6 @@
 # Study Guide: Acquia Certified Drupal 9 Developer Exam
 
-**This is the study guide for the** [**Acquia Certified Drupal 9 Developer Examination**](https://www.acquia.com/customer-success/learning-services/acquia-certified-developer-drupal-8-exam-blueprint)**.**
+**This is the study guide for the** [**Acquia Certified Drupal 9 Developer Examination**](https://www.acquia.com/solutions/customer-success/acquia-certification)**.**
 
 In this Guide we'll explain the exam Blueprint, break down the knowledge domains, and help you get familiar with the nature of questions asked in the exam.
 

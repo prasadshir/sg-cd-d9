@@ -15,8 +15,6 @@ Depending on your area of weakness, you may wish to take one of the following co
 * Drupal 8 Layout and Theming 
 * Drupal 8 Module development
 
-_\(Note: as Drupal 8 and 9 are very similar in architecture and concepts, you may start with the latest of the Drupal 8 or Drupal 9 courses from Acquia Academy\)_
-
 You can access these courses for free, and review them as many times as you like. Many courses are available, and if you are in an Acquia enablement or training program, you have been assigned the courses required to obtain an initial certification.
 
 Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture. Those with more exposure to Drupal 8 concepts, or with demonstrated site building experience with Drupal 7, may skip the D8 100-level courses.
@@ -31,7 +29,7 @@ The second challenge of finding enough practical case studies covering the topic
 
 ### Site Building
 
-Review several \(3-5\) Drupal 8 or 9 projects that you or your team has worked on in the past year. Review the content types, field settings, display settings, vocabularies, blocks, menus, and views used on the sites.
+Review several \(3-5\) Drupal 8 projects that you or your team has worked on in the past year. Review the content types, field settings, display settings, vocabularies, blocks, menus, and views used on the sites.
 
 **Ask questions:**
 

@@ -18,8 +18,6 @@ As a Newcomer to Drupal 9, take introductory courses in Acquia Academy \(also fo
 
 After taking the courses, build a small website on your own to reinforce the concepts learned in the courses.
 
-_\(Note: as Drupal 8 and 9 are very similar in architecture and concepts, you may start with the latest of the Drupal 8 or Drupal 9 courses from Acquia Academy\)_
-
 ## Take Acquia Academy Advanced Level Courses
 
 For the Developer path, the next step is to take a comprehensive advanced Level courses in Acquia Academy. The following courses are suggested:
@@ -30,13 +28,11 @@ For the Developer path, the next step is to take a comprehensive advanced Level 
 
 If you have previous experience in Drupal 7 development, you should start here. The courses cover advanced site building concepts, and theming and module concepts are covered from the ground-up. The courses also contain hands-on exercises to help you build Drupal 8 based websites, themes, and modules.
 
-You can access Drupal 9 preparatory courses on Acquia Academy, which you can find at [https://customers.acquiaacademy.com](https://customers.acquiaacademy.com).
+You can access Drupal 8 preparatory courses on Acquia Academy, which you can find at [https://customers.acquiaacademy.com](https://customers.acquiaacademy.com).
 
 You can access these courses for free and review them as many times as you like. Many Acquia Academy courses are available, and if you are in an Acquia enablement or training program, you have been assigned the courses you most require to obtain an initial certification.
 
 Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture.Those with more exposure to Drupal 8 concepts, or with demonstrated development experience with Drupal 7, may skip the D8 100-level courses.
-
-_\(Note: as Drupal 8 and 9 are very similar in architecture and concepts, you may start with the latest of the Drupal 8 or Drupal 9 courses from Acquia Academy\)_
 
 ![](.gitbook/assets/developer-learning-paths.png)
 

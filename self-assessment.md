@@ -17,7 +17,7 @@ You may use the following table to carry out your evaluation.
 |  | Topic | Your Score \(1-10\) |
 | :--- | :--- | :--- |
 | **1** | **Fundamental Web Development Concepts** |  |
-| 1.1 | Demonstrate knowledge of HTML and CSS. 1.2.  1.3. Demonstrate the use of Git for version control |  |
+| 1.1 | Demonstrate knowledge of HTML and CSS.  |  |
 | 1.2 | Identify JavaScript and jQuery programing concepts. |  |
 | 1.3 | Demonstrate the use of Git for version control. |  |
 | **2** | **Site Building** |  |
@@ -29,9 +29,8 @@ You may use the following table to carry out your evaluation.
 | 2.6 | Demonstrate ability to create and configure views for building content list pages, blocks and feeds. |  |
 | 2.7 | Demonstrate ability to use configuration management capabilities for exporting site configurations. |  |
 | 2.8 | Demonstrate ability to build multilingual websites using core multilingual capabilities. |  |
-| 2.9 | Demonstrate ability to build RESTful web application using core web services capabilities. |  |
 | **3** | **Front-end development \(theming\)** |  |
-| 3.1 | Given a scenario, demonstrate ability to create a custom theme or sub theme. |  |
+| 3.1 | Demonstrate ability to create a custom theme or sub theme. |  |
 | 3.2 | Demonstrate knowledge of theming concepts. |  |
 | 3.3 | Demonstrate ability to use Twig syntax. |  |
 | 3.4 | Demonstrate ability to build or override Twig templates for defining layout content. |  |
@@ -44,6 +43,7 @@ You may use the following table to carry out your evaluation.
 | 4.5 | Demonstrate ability to write code using Drupal coding standards. |  |
 | 4.6 | Demonstrate ability to analyze and resolve site performance issues arising from site configuration or custom code. |  |
 | 4.7 | Demonstrate ability to analyze and resolve security issues arising from site configuration or custom code. |  |
+| 4.8 | Demonstrate ability to write a test using the core testing framework |  |
 
 Next we look at how you can prepare, and what resources are available.
 
